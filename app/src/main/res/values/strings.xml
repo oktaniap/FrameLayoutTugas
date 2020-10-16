@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FrameLayoutTugas</string>
+    <string name="selamat_datang">Selamat Datang!</string>
+    <string name="gmbr">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="upn_veteran_jawa_timur">UPN \"Veteran\" Jawa Timur</string>
+    <string name="login">LOGIN</string>
+    <string name="daftar">DAFTAR</string>
+</resources>
